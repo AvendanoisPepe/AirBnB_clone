@@ -1,4 +1,4 @@
-![](https://imgur.com/a/zqIJAtd)
+![](https://i.imgur.com/geYh2pS.jpg)
 
 # 0x00. AirBnB clone - Web static  💻   💻   💻 
 
@@ -62,4 +62,4 @@
 ------------
 
 
-![](https://imgur.com/a/SZEXkXH)
+![](https://i.imgur.com/KVMHlD0.png)
